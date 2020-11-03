@@ -1,0 +1,11 @@
+a
+z
+ab
+yz
+abc
+xyz
+abcd
+wxyz
+abcde
+vwxyz
+otro
